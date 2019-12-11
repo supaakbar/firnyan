@@ -1,5 +1,5 @@
 ---
 deployment:
  tasks:
- - export DEPLOYPATH=/home/firnyan/public_html/
+ - export DEPLOYPATH=/home/firnyans/public_html/
  - /bin/cp -a * $DEPLOYPATH
